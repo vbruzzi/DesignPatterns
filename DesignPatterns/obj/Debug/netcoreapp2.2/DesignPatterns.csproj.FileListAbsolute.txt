@@ -1,0 +1,16 @@
+D:\dev\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.deps.json
+D:\dev\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.runtimeconfig.json
+D:\dev\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.runtimeconfig.dev.json
+D:\dev\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.dll
+D:\dev\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.pdb
+D:\dev\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.csprojAssemblyReference.cache
+D:\dev\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\dev\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.AssemblyInfoInputs.cache
+D:\dev\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.AssemblyInfo.cs
+D:\dev\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.dll
+D:\dev\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.pdb
+D:\dev\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.2\StrategyPattern.dll
+D:\dev\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.2\StrategyPattern.pdb
+D:\dev\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.csproj.CopyComplete
+D:\dev\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.2\PatternInterface.dll
+D:\dev\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.2\PatternInterface.pdb

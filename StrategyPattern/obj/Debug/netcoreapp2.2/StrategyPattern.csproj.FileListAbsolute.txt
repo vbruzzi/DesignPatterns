@@ -1,0 +1,12 @@
+D:\dev\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp2.2\StrategyPattern.deps.json
+D:\dev\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp2.2\StrategyPattern.dll
+D:\dev\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp2.2\StrategyPattern.pdb
+D:\dev\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp2.2\StrategyPattern.csprojAssemblyReference.cache
+D:\dev\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp2.2\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\dev\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp2.2\StrategyPattern.AssemblyInfoInputs.cache
+D:\dev\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp2.2\StrategyPattern.AssemblyInfo.cs
+D:\dev\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp2.2\StrategyPattern.dll
+D:\dev\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp2.2\StrategyPattern.pdb
+D:\dev\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp2.2\PatternInterface.dll
+D:\dev\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp2.2\PatternInterface.pdb
+D:\dev\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp2.2\StrategyPattern.csproj.CopyComplete

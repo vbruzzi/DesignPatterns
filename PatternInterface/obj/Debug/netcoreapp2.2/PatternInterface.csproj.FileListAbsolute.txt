@@ -1,0 +1,8 @@
+D:\dev\DesignPatterns\PatternInterface\bin\Debug\netcoreapp2.2\PatternInterface.deps.json
+D:\dev\DesignPatterns\PatternInterface\bin\Debug\netcoreapp2.2\PatternInterface.dll
+D:\dev\DesignPatterns\PatternInterface\bin\Debug\netcoreapp2.2\PatternInterface.pdb
+D:\dev\DesignPatterns\PatternInterface\obj\Debug\netcoreapp2.2\PatternInterface.csproj.CoreCompileInputs.cache
+D:\dev\DesignPatterns\PatternInterface\obj\Debug\netcoreapp2.2\PatternInterface.AssemblyInfoInputs.cache
+D:\dev\DesignPatterns\PatternInterface\obj\Debug\netcoreapp2.2\PatternInterface.AssemblyInfo.cs
+D:\dev\DesignPatterns\PatternInterface\obj\Debug\netcoreapp2.2\PatternInterface.dll
+D:\dev\DesignPatterns\PatternInterface\obj\Debug\netcoreapp2.2\PatternInterface.pdb
